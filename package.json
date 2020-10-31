@@ -1,0 +1,24 @@
+{
+  "name": "node-json-holiday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozmocode/node-json-holiday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozmocode/node-json-holiday/issues"
+  },
+  "homepage": "https://github.com/ozmocode/node-json-holiday#readme"
+}
